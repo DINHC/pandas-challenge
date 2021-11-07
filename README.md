@@ -8,7 +8,7 @@ PYCITYSCHOOL
  
   1. Import and read school_complete.csv and students_complete.csv 
   2. Cleaned data
-  3. Create code that would print district summary by using: the entire school data with a focus on school name, total students, math score, and reading score. Math score and reading score are split into average and % passing respectively. Both math score and reading score are used together with student count to produce % Overall Passing
+  3. Created code that would print district summary by using: the entire school data with a focus on school name, total students, math score, and reading score. Math score and reading score are split into average and % passing respectively. Both math score and reading score are used together with student count to produce % Overall Passing
   4. Create code to print out school data based on similar categories as district summary
   5. Created code to find top schools passing by focusing on % Overall Passing in descending order
   6. Created code to find bottom performing schools by focusing on % Overall Passing in ascending order
